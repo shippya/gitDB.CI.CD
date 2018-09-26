@@ -3,3 +3,7 @@ C:\Users\Shreepad\Documents\GitHub\gitDB.CI.CD\DB01.CI.CD\DB01.CI.CD\bin\Debug\D
 C:\Users\Shreepad\Documents\GitHub\gitDB.CI.CD\DB01.CI.CD\DB01.CI.CD\bin\Debug\DB01.CI.CD.pdb
 C:\Users\Shreepad\Documents\GitHub\gitDB.CI.CD\DB01.CI.CD\DB01.CI.CD\obj\Debug\DB01.CI.CD.dll
 C:\Users\Shreepad\Documents\GitHub\gitDB.CI.CD\DB01.CI.CD\DB01.CI.CD\obj\Debug\DB01.CI.CD.pdb
+C:\Users\Shreepad\Documents\GitHub\gitDB.CI.CD\DB01.CI.CD\DB01.CI.CD\obj\Debug\Model.xml
+C:\Users\Shreepad\Documents\GitHub\gitDB.CI.CD\DB01.CI.CD\DB01.CI.CD\obj\Debug\refactor.xml
+C:\Users\Shreepad\Documents\GitHub\gitDB.CI.CD\DB01.CI.CD\DB01.CI.CD\obj\Debug\postdeploy.sql
+C:\Users\Shreepad\Documents\GitHub\gitDB.CI.CD\DB01.CI.CD\DB01.CI.CD\obj\Debug\predeploy.sql
